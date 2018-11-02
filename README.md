@@ -18,6 +18,7 @@ Install Django in whatever way pleases your fancy, in any OS of your liking. If 
 
 ## It doesn't work!
 I am not you, nor your computer so I have no idea why it works on mine and not yours. Ever seen a response like this? I shall introduce you and everyone else who wants a solution. [DOCKER](https://www.docker.com) ~~beeyach~~ My friend! [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) people keep going on about it so I'll probably have to include Docker so no one says "It's not working on mine." We'll see how good of a mess I make out of that. Hehe, I'm already goggling with glee.
+EDIT: Pipenv is a thing now I suppose.
 
 ## What is S3?
 Simple storage service. I have no idea what the 'S' or '3' is for though. See [Amazon](https://aws.amazon.com/s3/)
